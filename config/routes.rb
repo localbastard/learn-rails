@@ -1,5 +1,3 @@
 LearnRails::Application.routes.draw do
-  LearnRails::Application.routes.draw do
-    root to: 'visitors#new'
-  end
+  root to: 'visitors#new'
 end
